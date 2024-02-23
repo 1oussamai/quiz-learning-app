@@ -2,11 +2,11 @@ import 'package:oussama/models/question_scree.dart';
 
 const question = [
   QuizQuestions(
-    'what is the main charcter in game of throns',
+    'who is the main charcter in game of throns',
     [
-      'jhon snow',
-      'jemmy lanister',
-      'lord bayliche',
+      'john snow',
+      'jemmy ',
+      'oussama',
       'area srtark',
     ],
   ),
@@ -38,12 +38,12 @@ const question = [
     ],
   ),
   QuizQuestions(
-    'the best teacher in this year is',
+    'best brand of cars',
     [
-      'boukadoum',
-      'hadj sadouk',
-      'buzeian',
-      'kali',
+      'bmw',
+      'Audi',
+      'tesla',
+      'my futur brand',
     ],
   ),
   QuizQuestions(
